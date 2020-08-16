@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": "apnh1elx6",
+      "name": "Ulk 1902",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Fhinh-nen-3d-cho-may-tinh-cuc-dep-9.jpg?alt=media&token=91302170-58de-4710-a90f-6b4913d9b4fb",
+      "price": "1000000000",
+      "sale_price": "1000000000",
+      "cate": "us9qk3ukx",
+      "desc": "<p>sản ph&acirc;̉m ch&acirc;́t lượng t&ocirc;́t</p>"
+    },
+    {
+      "id": "96huewv33",
+      "name": "Ulk 1902222",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2FNm09fuu.jpg?alt=media&token=a055d4f6-b4c7-406d-abd7-bffe3fa69573",
+      "price": "400000",
+      "sale_price": "400000",
+      "cate": "2z52kwk9f",
+      "desc": "<p>sản ph&acirc;̉m đẹp</p>"
+    },
+    {
+      "id": "543phukhw",
+      "name": "mạnh nguyễn",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2F115958994_302945500897402_6050851249744760340_n.jpg?alt=media&token=7ba66ec3-f5ae-4dea-85d2-ebc88ed1d888",
+      "price": "198.00",
+      "sale_price": "31321",
+      "cate": "us9qk3ukx",
+      "desc": "<p>dssadsa</p>"
+    }
+  ],
+  "categories": [
+    {
+      "id": "2z52kwk9f",
+      "name": "sản phẩm cho chó",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2F131014anh-dep-con-duong-dat-do.jpg?alt=media&token=34a40fd7-fc54-4ad9-ab71-12d065339da1",
+      "desc": "<p>dsasa</p>"
+    },
+    {
+      "id": "dajfjjqax",
+      "name": "mạnh nguyễn",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2F239b8df6bd1362396237fd1d670c8f5d.jpg?alt=media&token=364b7084-b27b-4cff-a238-dc90b8a265eb",
+      "desc": "<p>ádsadsdadsa</p>"
+    }
+  ]
+}
